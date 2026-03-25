@@ -1,0 +1,5 @@
+#Virtual Env
+sagemaker_env_py311/
+
+#Env
+.env
